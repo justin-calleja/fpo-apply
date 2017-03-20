@@ -1,6 +1,6 @@
 {
   "name": "@justinc/fpo-apply",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The named arguments based function `apply` from FPO",
   "main": "lib/index.js",
   "scripts": {
