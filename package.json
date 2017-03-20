@@ -1,7 +1,7 @@
 {
   "name": "@justinc/fpo-apply",
   "version": "0.0.1",
-  "description": "",
+  "description": "The named arguments based function `apply` from FPO",
   "main": "lib/index.js",
   "scripts": {
     "postversion": "npm publish --access=public && git push --follow-tags"
